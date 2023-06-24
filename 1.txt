@@ -4,4 +4,8 @@ how are you
 hiiii
 welcome 
 gpt
-ghw
+gh
+class pari
+{
+public static void main(String args[])
+}
